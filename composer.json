@@ -1,0 +1,15 @@
+{
+    "name": "symka/user",
+    "description": "symka user bundle",
+    "type": "library",
+    "require": {
+        "friendsofsymfony/user-bundle": "^2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kot",
+            "email": "kostiaGm@gmail.com"
+        }
+    ]
+}
