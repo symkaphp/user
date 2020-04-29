@@ -11,5 +11,10 @@
             "name": "kot",
             "email": "kostiaGm@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Symka\\User\\": "src/"
+        }
+    }
 }
